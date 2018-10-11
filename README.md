@@ -1,2 +1,1 @@
-# lreimer.github.io
-My personal GitHub pages
+# My GitHub Pages
