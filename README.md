@@ -116,13 +116,11 @@ JAVAPRO Magazine, Juni 2017
   JavaOne, San Francisco, Oktober 2015
 - Search-based business intelligence and reverse data engineering with Apache Solr<br>
   Apache BigData Con, September 2015
-- Sichere Programmierung<br>
-  IT-Security Summerschool, Rosenheim, Juli 2015
 
 ## 2014
 ### Conferences
 
-- Migrating a JSF-Based Web Application from Spring 3 to Java EE 7 and CDI<br>
+- [Migrating a JSF-Based Web Application from Spring 3 to Java EE 7 and CDI](https://speakerdeck.com/lreimer/migrating-a-jsf-based-web-application-from-spring-3-to-java-ee-7-and-cdi)<br>
   JavaOne, San Francisco, Oktober 2014
 
 ## 2012
