@@ -9,27 +9,27 @@ M.-Leander Reimer is a chief technologist working for QAware GmbH. He is a senio
 - Reviewer of [OpenShift in Action, Manning, 2018](https://amzn.to/2ONoGxl)
 
 ### Conferences
-- Steinzeit war gestern! Wege der Cloud-nativen Evolution.<br>
+- [Steinzeit war gestern! Vielfältige Wege der Cloud-nativen Evolution.](https://speakerdeck.com/lreimer/steinzeit-war-gestern-vielfaltige-wege-der-cloud-nativen-evolution-number-tag2018)<br>
   The Architecture Gathering 2018, Munich, October 2018
-- Steinzeit war gestern! Wege der Cloud-nativen Evolution.<br>
-  JCON 2018, Düsseldorf, October 2018
-- Building Microservices with Java EE 8 and Microprofile<br>
+- [Building Microservices with Java EE 8 and Microprofile](https://speakerdeck.com/lreimer/building-microservices-with-java-ee-8-and-microprofile)<br>
   JCON 2018, Düsseldorf, Oktober 2018  
-- Building Cloud Native Applications with Java EE 8 and Microprofile<br>
+- [Steinzeit war gestern! Wege der Cloud-nativen Evolution.](https://speakerdeck.com/lreimer/steinzeit-war-gestern-die-vielfaltigen-wege-der-cloud-nativen-evolution-number-jcon)<br>
+  JCON 2018, Düsseldorf, October 2018
+- [Building Cloud-native Applications with Java EE and Microprofile on Kubernetes](https://speakerdeck.com/lreimer/building-cloud-native-applications-with-java-ee-and-microprofile-on-kubernetes)<br>
   #IMWorld 2018, Bucharest, October 2018
-- Data Services: {Big,Fast,Smart} Data Processing mit Microservices<br>
+- [Data Services: {Big,Fast,Smart} Data Processing mit Microservices](https://speakerdeck.com/lreimer/data-services-big-fast-smart-data-processing-mit-microservices)<br>
   data2day 2018, Heidelberg, September 2018
-- Hands-on SquareScale in 45 Minutes<br>
+- [Hands-on SquareScale in 45 Minutes](https://github.com/lreimer/cloud-native-muc-sqsc-demo)<br>
   Cloud Native Night, München, Juli 2018
-- Steinzeit war gestern! Wege der Cloud-nativen Evolution.<br>
+- [Steinzeit war gestern! Wege der Cloud-nativen Evolution.](https://speakerdeck.com/lreimer/steinzeit-war-gestern-vielfaltige-wege-der-cloud-nativen-evolution)<br>
   SEACON 2018, Hamburg, Mai
-- A Hitchhiker's Guide to Cloud Native Java EE<br>
+- [A Hitchhiker's Guide to Cloud Native Java EE](https://speakerdeck.com/lreimer/a-hitchhikers-guide-to-cloud-native-java-ee)<br>
   JavaLand 2018, Brühl, März 2018
-- Dataservices: Processing Big Data the Microservice Way<br>
+- [Dataservices: Processing Big Data the Microservice Way](https://speakerdeck.com/lreimer/data-services-processing-big-data-the-microservice-way)<br>
   O'Reilly Software Architecture Conference 2018, New York, Februar 2018
-- Steinzeit war gestern! Die vielfältigen Wege der Cloud-nativen Evolution<br>
+- [Steinzeit war gestern! Die vielfältigen Wege der Cloud-nativen Evolution](https://speakerdeck.com/lreimer/steinzeit-war-gestern-die-vielfaltigen-wege-der-cloud-nativen-evolution)<br>
   OOP 2018, München, Februar 2018
-- Vom Monolithen in die Cloud<br>
+- [Vom Monolithen in die Cloud](https://speakerdeck.com/lreimer/vom-monolithen-in-die-cloud)<br>
   Linuxstammtisch München, Januar 2018
 
 ## 2017
