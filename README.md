@@ -34,37 +34,39 @@ M.-Leander Reimer is a chief technologist working for QAware GmbH. He is a senio
 
 ## 2017
 ### Conferences
-- Vielseitiges In-Memory Computing mit Apache Ignite und Kubernetes<br>
+- [Vielseitiges In-Memory Computing mit Apache Ignite und Kubernetes](https://speakerdeck.com/lreimer/vielseitiges-in-memory-computing-mit-apache-ignite-und-kubernetes-number-ittage)<br>
   IT-Tage 2017, Frankfurt am Main, Dezember 2017
-- Das kleine Einmaleins der sicheren Architektur und Programmierung<br>
+- [Das kleine Einmaleins der sicheren Architektur und Programmierung](https://speakerdeck.com/lreimer/das-kleine-einmaleins-der-sicheren-architektur-und-programmierung)<br>
   IT-Tage 2017, Frankfurt am Main, Dezember 2017
-- Everything-as-code – Polyglotte Entwicklung in der Praxis<br>
+- [Everything-as-code – Polyglotte Entwicklung in der Praxis](https://speakerdeck.com/lreimer/everything-as-code-polyglotte-entwicklung-in-der-praxis)<br>
   IT-Tage 2017, Frankfurt am Main, Dezember 2017
-- Everything as code: DevOps und Continuous Delivery aus Sicht des Entwicklers<br>
+- [Everything as code: DevOps und Continuous Delivery aus Sicht des Entwicklers](https://speakerdeck.com/lreimer/everything-as-code-devops-und-continuous-delivery-aus-sicht-des-entwicklers-at-conlifecycle)<br>
   Continuous Lifecycle / ContainerConf 2017, Mannheim, November 2017
-- Das kleine 1x1 der sicheren Architektur<br>
+- [Das kleine 1x1 der sicheren Architektur](https://speakerdeck.com/lreimer/das-kleine-einmaleins-der-sicheren-architektur-at-heise-devsec)<br>
   //heise devSec() 2017, Heidelberg, Oktober 2017
-- Polyglot Adventures for the Modern Java Developer<br>
+- [Polyglot Adventures for the Modern Java Developer](https://speakerdeck.com/lreimer/polyglot-adventures-for-the-modern-java-developer-number-javaone2017)<br>
   JavaOne 2017, San Francisco, Oktober 2017
-- Cloud-native .NET Microservices mit Kubernetes<br>
+- [Cloud-native .NET Microservices mit Kubernetes](https://speakerdeck.com/lreimer/cloud-native-net-microservices-mit-kubernetes-at-bastacon)<br>
   BASTA! 2017, Mainz, September 2017
-- In-Memory Computing mit Apache Ignite und Kubernetes<br>
+- [In-Memory Computing mit Apache Ignite und Kubernetes](https://speakerdeck.com/lreimer/elegantes-in-memory-computing-mit-apache-ignite-und-kubernetes-at-data2day)<br>
   data2day 2017, Heidelberg, September 2017
-- A Hitchhiker's Guide to the Cloud Native Stack<br>
+- [Everything-as-code. Eine vielsprachige Reise.](https://speakerdeck.com/lreimer/everything-as-code-eine-vielsprachige-reise-at-jug-da)<br>
+  JUG DA 2017, Darmstadt, September 2017  
+- [A Hitchhiker's Guide to the Cloud Native Stack](https://speakerdeck.com/lreimer/a-hitchhikers-guide-to-the-cloud-native-stack-number-devoxxpl)<br>
   Devoxx 2017, Polen, Juni 2017
-- Everything-as-code. A polyglot adventure.<br>
+- [Everything-as-code. A polyglot adventure.](https://speakerdeck.com/lreimer/everything-as-code-a-polyglot-adventure-number-devoxxpl)<br>
   Devoxx 2017, Polen, Juni 2017
-- A Hitchhiker's Guide to the Cloud Native Stack<br>
+- [A Hitchhiker's Guide to the Cloud Native Stack](https://speakerdeck.com/lreimer/a-hitchhikers-guide-to-the-cloud-native-stack-number-cds17)<br>
   Container Days 2017, Hamburg, Juni 2017
-- Per Anhalter durch den Cloud Native Stack<br>
+- [Per Anhalter durch den Cloud Native Stack](https://speakerdeck.com/lreimer/per-anhalter-durch-den-cloud-native-stack-number-seaconhh-2017)<br>
   SEACON 2017, Hamburg, Mai 2017
-- Everything-as-code. Ein polyglottes Abenteuer<br>
+- [Everything-as-code. Ein polyglottes Abenteuer](https://speakerdeck.com/lreimer/everything-as-code-ein-polyglottes-abenteuer-number-jax2017)<br>
   JAX 2017, Mainz, Mai 2017
-- Everything-as-code<br>
+- [Everything-as-code](https://speakerdeck.com/lreimer/everything-as-code-eine-vielsprachige-reise-number-javaland-2017)<br>
   JavaLand, Brühl, März 2017
-- Per Anhalter durch den Cloud Native Stack<br>
+- [Per Anhalter durch den Cloud Native Stack](https://speakerdeck.com/lreimer/per-anhalter-durch-den-cloud-native-stack-number-oop2017)<br>
   OOP 2017, München, Januar 2017
-- Everything-as-code. Polyglotte Software-Entwicklung in der Praxis.<br>
+- [Everything-as-code. Polyglotte Software-Entwicklung in der Praxis.](https://speakerdeck.com/lreimer/everything-as-code-polyglotte-entwicklung-in-der-praxis-number-oop2017)<br>
   OOP 2017, München, Januar 2017
 
 ### Articles
