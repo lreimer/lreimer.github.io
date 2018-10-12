@@ -78,23 +78,25 @@ JAVAPRO Magazine, Juni 2017
 - Reviewer of [Java Testing with Spock, Manning, 2016](https://amzn.to/2QIApdS)
 
 ### Conferences
-- Der Cloud Native Stack in a Nutshell<br>
+- [Der Cloud Native Stack in a Nutshell](https://speakerdeck.com/lreimer/der-cloud-native-stack-in-a-nutshell-number-cloudexpoeurope)<br>
   Cloud Expo Europe, Frankfurt, November 2016
-- A Hitchhiker’s Guide to the Cloud Native Stack<br>
+- [A Hitchhiker’s Guide to the Cloud Native Stack](https://speakerdeck.com/lreimer/a-hitchhikers-guide-to-the-cloud-native-stack-number-containerconf)<br>
   Continuous Lifecycle / ContainerConf, Mannheim, November 2016
-- A Hitchhiker’s Guide to the Cloud Native Stack (Workshop)<br>
+- [A Hitchhiker’s Guide to the Cloud Native Stack (Workshop)](https://github.com/qaware/hitchhikers-guide-cloudnative)<br>
   W-JAX, München, November 2016
-- Secure Architecture and Programming 101<br>
+- [Secure Architecture and Programming 101](https://speakerdeck.com/lreimer/secure-architecture-and-programming-101)<br>
   O'Reilly Software Architecture Conference, London, Oktober 2016
-- Automotive Information Research driven by Apache Solr<br>
+- [Automotive Information Research driven by Apache Solr](https://speakerdeck.com/lreimer/automotive-information-research-driven-by-apache-solr-1)<br>
   Lucene Revolution, Boston, Oktober 2016
-- Kubernetes 101 and Fun<br>
+- [Automotive Information Research driven by Apache Solr](https://speakerdeck.com/lreimer/automotive-information-research-driven-by-apache-solr)<br>
+  data2day, Heidelberg, Oktober 2016
+- [Kubernetes 101 and Fun](https://speakerdeck.com/lreimer/kubernetes-101-and-fun)<br>
   LinuxCon+ContainerCon Europe, Berlin, Oktober 2016
-- Lightweight Developer Provisioning with Gradle<br>
+- [Lightweight Developer Provisioning with Gradle](https://speakerdeck.com/lreimer/lightweight-developer-provisioning-with-gradle-1)<br>
   JavaOne, San Francisco, September 2016
-- Everything as code. A polyglot journey.<br>
+- [Everything as code. A polyglot journey.](https://speakerdeck.com/lreimer/everything-as-code-a-polyglot-journey)<br>
   JavaOne, San Francisco, September 2016
-- Lightweight Developer Provisioning with Gradle<br>
+- [Lightweight Developer Provisioning with Gradle](https://speakerdeck.com/lreimer/lightweight-developer-provisioning-with-gradle-and-seu-as-code)<br>
   Gradle Summit, Palo Alto, Juni 2016
 
 ### Articles
