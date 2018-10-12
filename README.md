@@ -128,5 +128,5 @@ JAVAPRO Magazine, Juni 2017
 ## 2012
 ### Conferences
 
-- Service-Oriented Online Architecture with Mule: A different approach to building a SOA<br>
+- [Service-Oriented Online Architecture with Mule: A different approach to building a SOA](https://speakerdeck.com/lreimer/service-oriented-online-architecture-with-mule-esb)<br>
   Mule Summit, München, Mai 2012
