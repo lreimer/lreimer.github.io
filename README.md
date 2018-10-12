@@ -112,9 +112,9 @@ JAVAPRO Magazine, Juni 2017
 ## 2015
 ### Conferences
 
-- Secure JEE Architecture and Programming 101<br>
+- [Secure JEE Architecture and Programming 101](https://speakerdeck.com/lreimer/secure-jee-architecture-and-programming-101)<br>
   JavaOne, San Francisco, Oktober 2015
-- Search-based business intelligence and reverse data engineering with Apache Solr<br>
+- [Search-based business intelligence and reverse data engineering with Apache Solr](https://speakerdeck.com/lreimer/search-based-business-intelligence-and-reverse-data-engineering-with-apache-solr)<br>
   Apache BigData Con, September 2015
 
 ## 2014
