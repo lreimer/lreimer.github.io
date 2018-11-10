@@ -9,6 +9,10 @@ M.-Leander Reimer is a chief technologist working for QAware GmbH. He is a senio
 - Reviewer of [OpenShift in Action, Manning, 2018](https://amzn.to/2ONoGxl)
 
 ### Conferences
+- [Putting microservices on a diet with Istio](https://speakerdeck.com/lreimer/putting-microservices-on-a-diet-with-istio-number-oreillysacon)<br>
+  O'Reilly Software Architecture Conference, London, October 2018
+- [Continuous Delivery aus Sicht des Testers](https://speakerdeck.com/lreimer/continuous-delivery-aus-sicht-des-testers)<br>
+  Software-QS-Tag 2018, Frankfurt, Oktober 2018
 - [Steinzeit war gestern! Vielfältige Wege der Cloud-nativen Evolution.](https://speakerdeck.com/lreimer/steinzeit-war-gestern-vielfaltige-wege-der-cloud-nativen-evolution-number-tag2018)<br>
   The Architecture Gathering 2018, Munich, October 2018
 - [Building Microservices with Java EE 8 and Microprofile](https://speakerdeck.com/lreimer/building-microservices-with-java-ee-8-and-microprofile)<br>
