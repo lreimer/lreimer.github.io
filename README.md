@@ -2,6 +2,13 @@
 
 M.-Leander Reimer is a chief technologist working for QAware GmbH. He is a senior Java developer and architect with several years of experience in designing complex and distributed system architectures. He is continuously looking for innovations and ways to combine and apply state-of-the-art technology and open source software components in real-world projects. He studied computer science at Rosenheim and Staffordshire University and he is teaching cloud computing as a part time lecturer.
 
+## 2019
+
+### Conferences
+
+- [Putting Microservices on a Diet: with Istio!](https://speakerdeck.com/lreimer/putting-microservices-on-a-diet-with-istio-number-codedays-2019)<br>
+  Code Days 2019, Munich, January 2019
+
 ## 2018
 
 ### Videos
