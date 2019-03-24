@@ -8,6 +8,8 @@ M.-Leander Reimer is a chief technologist working for QAware GmbH. He is a senio
 
 - [Putting Microservices on a Diet: with Istio!](https://speakerdeck.com/lreimer/putting-microservices-on-a-diet-with-istio-number-codedays-2019)<br>
   Code Days 2019, Munich, January 2019
+- [Putting Microservices on a Diet: with Istio!](https://speakerdeck.com/lreimer/putting-microservices-on-a-diet-with-istio-number-javaland-2019)<br>
+  JavaLand 2019, Brühl, March 2019
 
 ## 2018
 
