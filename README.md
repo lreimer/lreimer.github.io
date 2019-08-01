@@ -6,10 +6,24 @@ M.-Leander Reimer is a chief technologist working for QAware GmbH. He is a senio
 
 ### Conferences
 
-- [Putting Microservices on a Diet: with Istio!](https://speakerdeck.com/lreimer/putting-microservices-on-a-diet-with-istio-number-codedays-2019)<br>
-  Code Days 2019, Munich, January 2019
+- [High-Performance FaaS with Nuclio](https://speakerdeck.com/lreimer/high-performance-faas-with-nuclio-number-serverless-number-munich)<br>
+  Serverless Meetup, Munich, July 2019
+- [The Big Cloud Native FaaS Lebowski](https://speakerdeck.com/lreimer/the-big-cloud-native-faas-lebowski-number-linuxstammtisch)<br>
+  Linux-Stammtisch München, Munich, July 2019
+- [A Hitchiker's Guide to Cloud Native API Gateways](https://speakerdeck.com/lreimer/a-hitchhikers-guide-to-cloud-native-api-gateways-number-cds19)<br>
+  Container Days 2019, Hamburg, June 2019
+- [Enterprise Cloud Native Is The New Normal](https://speakerdeck.com/lreimer/enterprise-cloud-native-is-the-new-normal-number-cds19)<br>
+  Container Days 2019, Hamburg, June 2019
+- [The Big Cloud Native FaaS Lebowski](https://speakerdeck.com/lreimer/the-big-cloud-native-faas-lebowski-number-devoxxpl)<br>
+  Devoxx PL 2019, Krakow, June 2019
+- [Enterprise Cloud Native ist das Neue Schwarz](https://speakerdeck.com/lreimer/enterprise-cloud-native-ist-das-neue-schwarz-number-devopsentials19)<br>
+  DevOps Essentials 2019, Darmstadt, June 2019
+- [The Big Cloud Native FaaS Lebowski](https://speakerdeck.com/lreimer/the-big-cloud-native-faas-lebowski-number-microxchg)<br>
+  microXchg 2019, Berlin, April 2019
 - [Putting Microservices on a Diet: with Istio!](https://speakerdeck.com/lreimer/putting-microservices-on-a-diet-with-istio-number-javaland-2019)<br>
   JavaLand 2019, Brühl, March 2019
+- [Putting Microservices on a Diet: with Istio!](https://speakerdeck.com/lreimer/putting-microservices-on-a-diet-with-istio-number-codedays-2019)<br>
+  Code Days 2019, Munich, January 2019
 
 ## 2018
 
