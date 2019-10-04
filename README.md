@@ -6,6 +6,7 @@ M.-Leander Reimer is a chief technologist working for QAware GmbH. He is a senio
 
 ### Conferences
 
+- [Holistische Sicherheit für Microservice-baiserte Systeme](https://speakerdeck.com/lreimer/holistische-sicherheit-fur-microservice-basierte-systeme-number-devsec19)<br>heise devSec 2019, Heidelberg, September 2019
 - [High-Performance FaaS with Nuclio](https://speakerdeck.com/lreimer/high-performance-faas-with-nuclio-number-serverless-number-munich)<br>
   Serverless Meetup, Munich, July 2019
 - [The Big Cloud Native FaaS Lebowski](https://speakerdeck.com/lreimer/the-big-cloud-native-faas-lebowski-number-linuxstammtisch)<br>
