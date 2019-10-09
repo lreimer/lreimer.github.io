@@ -6,6 +6,7 @@ M.-Leander Reimer is a chief technologist working for QAware GmbH. He is a senio
 
 ### Conferences
 
+- [Die Bedeutung von Continuous Integration & Deployment in großen Unternehmen](https://speakerdeck.com/lreimer/die-bedeutung-von-continuous-integration-and-deployment-in-grossen-unternehmen)<br>Enterprise Cloud Native Summit, Munich, October 2019
 - [Holistische Sicherheit für Microservice-baiserte Systeme](https://speakerdeck.com/lreimer/holistische-sicherheit-fur-microservice-basierte-systeme-number-devsec19)<br>heise devSec 2019, Heidelberg, September 2019
 - [High-Performance FaaS with Nuclio](https://speakerdeck.com/lreimer/high-performance-faas-with-nuclio-number-serverless-number-munich)<br>
   Serverless Meetup, Munich, July 2019
