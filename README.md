@@ -6,6 +6,12 @@ M.-Leander Reimer is a chief technologist working for QAware GmbH. He is a senio
 
 ### Conferences
 
+- [Running Kubernetes on Workstations and Edge and IoT Devices](https://speakerdeck.com/lreimer/running-kubernetes-on-workstations-and-edge-and-iot-devices)<br>Cloud Native Night, Munich, November 2019
+- [Die große Cloud-native FaaS-Hitparade](https://speakerdeck.com/lreimer/die-grosse-cloud-native-faas-hitparade)<br>ContainerConf 2019, Mannheim, November 2019
+- [The Big Cloud Native FaaS Lebowski](https://speakerdeck.com/lreimer/the-big-cloud-native-faas-lebowski-number-serverlesslondon)<br>Serverless Conference, London, November 2019
+- [Building and Running Serverless Workloads the Knative way](https://speakerdeck.com/lreimer/building-and-running-serverless-workloads-the-knative-way-number-serverlesslondon)<br>Serverless Conference, London, November 2019
+- [A Hitchhiker's Guide to Cloud Native API Gateways](https://speakerdeck.com/lreimer/a-hitchhikers-guide-to-cloud-native-api-gateways)<br>O'Reilly SA Con, Berlin, November 2019
+- [Enterprise Cloud Native ist das Neue Normal](https://speakerdeck.com/lreimer/enterprise-cloud-native-ist-das-neue-normal-codex-number-speakersnight-number-hdi)<br>CODEx SpeakersNight, Hannover, November 2019
 - [Serverless is the Next Logical Evolution in Cloud Native Software Development](https://speakerdeck.com/lreimer/serverless-is-the-next-logical-evolution-in-cloud-native-software-development)<br>Open Source Automation Days, Munich, October 2019
 - [Die Bedeutung von Continuous Integration & Deployment in großen Unternehmen](https://speakerdeck.com/lreimer/die-bedeutung-von-continuous-integration-and-deployment-in-grossen-unternehmen)<br>Enterprise Cloud Native Summit, Munich, October 2019
 - [Holistische Sicherheit für Microservice-baiserte Systeme](https://speakerdeck.com/lreimer/holistische-sicherheit-fur-microservice-basierte-systeme-number-devsec19)<br>heise devSec 2019, Heidelberg, September 2019
