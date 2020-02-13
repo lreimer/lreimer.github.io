@@ -6,7 +6,11 @@ M.-Leander Reimer is a chief technologist working for QAware GmbH. He is a senio
 
 ### Conferences
 
-
+- [Enterprise Cloud Native ist das neue Normal](https://speakerdeck.com/lreimer/enterprise-cloud-native-ist-das-neue-normal-number-se-couch-munich)<br>SE-Couch Meetup, München, February 2020
+- [Enterprise Cloud Native ist das neue Normal](https://speakerdeck.com/lreimer/enterprise-cloud-native-ist-das-neue-normal-number-codedays-2020)<br>CodeDays, München, February 2020
+- [Holistische Sicherheit für Microservice-Architekturen](https://speakerdeck.com/lreimer/holistische-sicherheit-fur-microservice-architekturen-number-oop2020)<br>OOP, München, February 2020
+- [Efficient Ops Tooling with Java and GraalVM](https://speakerdeck.com/lreimer/efficient-ops-tooling-with-java-and-graalvm)<br>Cloud Native Night, München, January 2020
+- [A Hitchhiker's Guide to Enterprise Microservices with Go](https://speakerdeck.com/lreimer/a-hitchhikers-guide-to-enterprise-microservices-with-go)<br>GoDays, Berlin, January 2020
 
 ## 2019
 
