@@ -6,6 +6,8 @@ M.-Leander Reimer is a chief technologist working for QAware GmbH. He is a senio
 
 ### Videos
 
+- [Put Your Containers on a Secure Diet with Google Distroless](https://www.youtube.com/watch?v=1jwZxh3EozI)
+- [Using AppCDS to boost your Jakarta EE application startup time](https://www.youtube.com/watch?v=KXBqfEMXuuQ)
 
 ### Conferences
 
