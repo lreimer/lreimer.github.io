@@ -4,8 +4,18 @@ M.-Leander Reimer is a chief technologist working for QAware GmbH. He is a senio
 
 ## 2020
 
+### Videos
+
+
 ### Conferences
 
+- [Kubernetes für Workstations, Edge and IoT Devices](https://speakerdeck.com/lreimer/kubernetes-fur-workstations-edge-and-iot-devices)<br>Continuous Lifecycle, November 2020
+- [Jakarta EE Security und Microprofile JWT in Aktion](https://speakerdeck.com/lreimer/jakarta-ee-security-und-microprofile-jwt-in-aktion)<br>heise devSec(), October 2020
+- [Efficient DevOps Tooling with Java and GraalVM](https://speakerdeck.com/lreimer/efficient-devops-tooling-with-java-and-graalvm)<br>JCON 2020, October 2020
+- [Running Kubernetes on Workstations, Edge / IoT Devices](https://speakerdeck.com/lreimer/iot-devices-c18be482-f13e-4502-b141-faaea2b2dc22)<br>JCON 2020, October 2020
+- [Running Kubernetes on Workstations, Edge and IoT Devices](https://speakerdeck.com/lreimer/running-kubernetes-on-workstation-edge-and-iot-devices)<br>Cloud Native Virtual Summit (Fall 2020), October 2020
+- [Ways Towards a YAML-less Cloud-native DevEx](https://speakerdeck.com/lreimer/ways-towards-a-yaml-less-cloud-native-devex)<br>Cloud Native Virtual Summit, April 2020
+- [The Big Cloud Native FaaS Lebowski](https://speakerdeck.com/lreimer/jug-hessen-cloud-native-faas-lebowski)<br>JUG Hessen, March 2020
 - [Enterprise Cloud Native ist das neue Normal](https://speakerdeck.com/lreimer/enterprise-cloud-native-ist-das-neue-normal-number-se-couch-munich)<br>SE-Couch Meetup, München, February 2020
 - [Enterprise Cloud Native ist das neue Normal](https://speakerdeck.com/lreimer/enterprise-cloud-native-ist-das-neue-normal-number-codedays-2020)<br>CodeDays, München, February 2020
 - [Holistische Sicherheit für Microservice-Architekturen](https://speakerdeck.com/lreimer/holistische-sicherheit-fur-microservice-architekturen-number-oop2020)<br>OOP, München, February 2020
