@@ -1,6 +1,6 @@
 ## #whoami
 
-M.-Leander Reimer is a chief technologist working for QAware GmbH. He is a senior Java developer and architect with several years of experience in designing complex and distributed system architectures. He is continuously looking for innovations and ways to combine and apply state-of-the-art technology and open source software components in real-world projects. He studied computer science at Rosenheim and Staffordshire University and he is teaching cloud computing as a part time lecturer.
+M.-Leander Reimer is a technical business unit director and principal software architect working for QAware GmbH. He is a senior Java developer and architect with several years of experience in designing complex and distributed system architectures. He is continuously looking for innovations and ways to combine and apply state-of-the-art technology and open source software components in real-world projects. He studied computer science at Rosenheim and Staffordshire University and he is teaching cloud computing as a part time lecturer.
 
 ## 2021
 
