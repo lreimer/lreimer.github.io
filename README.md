@@ -2,6 +2,17 @@
 
 M.-Leander Reimer is a chief technologist working for QAware GmbH. He is a senior Java developer and architect with several years of experience in designing complex and distributed system architectures. He is continuously looking for innovations and ways to combine and apply state-of-the-art technology and open source software components in real-world projects. He studied computer science at Rosenheim and Staffordshire University and he is teaching cloud computing as a part time lecturer.
 
+## 2021
+
+### Conferences
+
+- [Continuous (Non)-Functional Testing of Microservices on K8s](https://speakerdeck.com/lreimer/continuous-non-functional-testing-of-microservices-on-k8s)<br>Code Days Digital, February 2021
+- [Efficient DevOps Tooling with Java and GraalVM](https://speakerdeck.com/lreimer/efficient-devops-tooling-with-java-and-graalvm-924c1b69-3bae-433a-86cf-1dfe96889695)<br>OOP Fachforen Digital, February 2021
+- [Ways towards a productive YAML-less Cloud-native DevEx](https://speakerdeck.com/lreimer/ways-towards-a-productive-yaml-less-cloud-native-devex)<br>OOP Digital, February 2021
+- [Essentielle Tools für produktive und glückliche #CloudNativeNerds](https://speakerdeck.com/lreimer/essentielle-tools-fur-produktive-und-gluckliche-number-cloudnativenerds)<br>ContainerConf Cloud Native Day, February 2021
+- [Go for Operations](https://speakerdeck.com/lreimer/go-for-operations)<br>Code Days Digital, February 2021
+- [Kubernetes ist so viel mehr als ein Container-Orchestrierer](https://speakerdeck.com/lreimer/kubernetes-ist-so-viel-mehr-als-ein-container-orchestrierer)<br>ContainerConf Kubernetes Experts Day, January 2021
+
 ## 2020
 
 ### Videos
