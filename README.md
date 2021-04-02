@@ -6,6 +6,9 @@ M.-Leander Reimer is a technical business unit director and principal software a
 
 ### Conferences
 
+- [Effizientes DevOps-Tooling mit Java und GraalVM](https://speakerdeck.com/lreimer/effizientes-devops-tooling-mit-java-und-graalvm)<br>IT-Tage 365, March 2021
+- [Mit LoRaWAN und Serverless Technology zur eigenen Smart Office Lösung](https://speakerdeck.com/lreimer/mit-lorawan-und-serverless-technology-zur-eigenen-smart-office-losung)<br>Building IoT, March 2021
+- [A Hitchhiker's Guide to Cloud-native API Gateways](https://speakerdeck.com/lreimer/a-hitchhikers-guide-to-cloud-native-api-gateways-number-javalandconf)<br>JavaLand, March 2021
 - [Continuous (Non)-Functional Testing of Microservices on K8s](https://speakerdeck.com/lreimer/continuous-non-functional-testing-of-microservices-on-k8s)<br>Code Days Digital, February 2021
 - [Efficient DevOps Tooling with Java and GraalVM](https://speakerdeck.com/lreimer/efficient-devops-tooling-with-java-and-graalvm-924c1b69-3bae-433a-86cf-1dfe96889695)<br>OOP Fachforen Digital, February 2021
 - [Ways towards a productive YAML-less Cloud-native DevEx](https://speakerdeck.com/lreimer/ways-towards-a-productive-yaml-less-cloud-native-devex)<br>OOP Digital, February 2021
