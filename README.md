@@ -1,11 +1,25 @@
 ## #whoami
 
-M.-Leander Reimer is a technical business unit director and principal software architect working for QAware GmbH. He is a senior Java developer and architect with several years of experience in designing complex and distributed system architectures. He is continuously looking for innovations and ways to combine and apply state-of-the-art technology and open source software components in real-world projects. He studied computer science at Rosenheim and Staffordshire University and he is teaching cloud computing as a part time lecturer.
+M.-Leander Reimer is a technical business unit director and principal software architect working for QAware GmbH. He is a senior Java developer and architect with several years of experience in designing complex and distributed system architectures. He is continuously looking for innovations and ways to combine and apply state-of-the-art technology and open source software components in real-world projects. He studied computer science at Rosenheim and Staffordshire University and he is teaching cloud computing and software quality assurance as a part time lecturer.
+
+## 2022
+
+## Conferences
+
 
 ## 2021
 
 ### Conferences
 
+- [Clean and Secure Infrastructure as Code](https://www.youtube.com/watch?v=xtLBxqK3L-Y)<br>DevSecCon, November 2021
+- [Von REST zu gRPC und zurück mit Go](https://speakerdeck.com/lreimer/von-rest-zu-grpc-und-zuruck-mit-go)<br>betterCode(Go), November 2021
+- [Ich brauche einen Abstraktions-Layer für meine Cloud](https://speakerdeck.com/lreimer/cloud-native-battle-number-1)<br>Cloud Native Battle #1, September 2021
+- [Infrastructure as Code ohne Tests ist per se kaputt!](https://speakerdeck.com/lreimer/infrastructure-as-code-ohne-tests-ist-per-se-kaputt)<br>Herbstcampus, September 2021
+- [Kubernetes as a Platform for building Platforms]()<br>Container Days, September 2021
+- [Clean Infrastructure as Code]()<br>Container Days, September 2021
+- [Kubernetes ist so viel mehr als ein Container-Orchestrierer]()<br>Heise Mastering Kubernetes, Juli 2021
+- [Continuous (Non)-Functional Testing of Microservices on K8s]()<br>Continuous Lifecycle Online, Mai 2021
+- [Per Anhalter zu Cloud-nativen API Gateways](https://speakerdeck.com/lreimer/per-anhalter-zu-cloud-nativen-api-gateways)<br>betterCode(API), April 2021
 - [Effizientes DevOps-Tooling mit Java und GraalVM](https://speakerdeck.com/lreimer/effizientes-devops-tooling-mit-java-und-graalvm)<br>IT-Tage 365, March 2021
 - [Mit LoRaWAN und Serverless Technology zur eigenen Smart Office Lösung](https://speakerdeck.com/lreimer/mit-lorawan-und-serverless-technology-zur-eigenen-smart-office-losung)<br>Building IoT, March 2021
 - [A Hitchhiker's Guide to Cloud-native API Gateways](https://speakerdeck.com/lreimer/a-hitchhikers-guide-to-cloud-native-api-gateways-number-javalandconf)<br>JavaLand, March 2021
