@@ -15,10 +15,10 @@ M.-Leander Reimer is a technical business unit director and principal software a
 - [Von REST zu gRPC und zurück mit Go](https://speakerdeck.com/lreimer/von-rest-zu-grpc-und-zuruck-mit-go)<br>betterCode(Go), November 2021
 - [Ich brauche einen Abstraktions-Layer für meine Cloud](https://speakerdeck.com/lreimer/cloud-native-battle-number-1)<br>Cloud Native Battle #1, September 2021
 - [Infrastructure as Code ohne Tests ist per se kaputt!](https://speakerdeck.com/lreimer/infrastructure-as-code-ohne-tests-ist-per-se-kaputt)<br>Herbstcampus, September 2021
-- [Kubernetes as a Platform for building Platforms]()<br>Container Days, September 2021
-- [Clean Infrastructure as Code]()<br>Container Days, September 2021
-- [Kubernetes ist so viel mehr als ein Container-Orchestrierer]()<br>Heise Mastering Kubernetes, Juli 2021
-- [Continuous (Non)-Functional Testing of Microservices on K8s]()<br>Continuous Lifecycle Online, Mai 2021
+- [Kubernetes as a Platform for building Platforms](https://www.youtube.com/watch?v=5pHiM6-X1co)<br>Container Days, September 2021
+- [Clean Infrastructure as Code](https://www.youtube.com/watch?v=13vuJz5fRDc&t=2s)<br>Container Days, September 2021
+- [Kubernetes ist so viel mehr als ein Container-Orchestrierer](https://speakerdeck.com/lreimer/kubernetes-ist-so-viel-mehr-als-ein-container-orchestrierer-5610e852-89a7-4f00-99a9-ebfce60a79a1)<br>Heise Mastering Kubernetes, Juli 2021
+- [Continuous (Non)-Functional Testing of Microservices on K8s](https://speakerdeck.com/lreimer/continuous-non-functional-testing-of-microservices-on-k8s-a82cb6fb-0935-42bc-882c-6365c810481e)<br>Continuous Lifecycle Online, Mai 2021
 - [Per Anhalter zu Cloud-nativen API Gateways](https://speakerdeck.com/lreimer/per-anhalter-zu-cloud-nativen-api-gateways)<br>betterCode(API), April 2021
 - [Effizientes DevOps-Tooling mit Java und GraalVM](https://speakerdeck.com/lreimer/effizientes-devops-tooling-mit-java-und-graalvm)<br>IT-Tage 365, March 2021
 - [Mit LoRaWAN und Serverless Technology zur eigenen Smart Office Lösung](https://speakerdeck.com/lreimer/mit-lorawan-und-serverless-technology-zur-eigenen-smart-office-losung)<br>Building IoT, March 2021
