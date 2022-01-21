@@ -6,11 +6,13 @@ M.-Leander Reimer is a technical business unit director and principal software a
 
 ## Conferences
 
+- OOP
 
 ## 2021
 
 ### Conferences
 
+- [Clean Infrastructure as Code](https://speakerdeck.com/lreimer/clean-infrastructure-as-code)<br>Continuous Lifecylce >> Container Conf, November 2021
 - [Clean and Secure Infrastructure as Code](https://www.youtube.com/watch?v=xtLBxqK3L-Y)<br>DevSecCon, November 2021
 - [Von REST zu gRPC und zurück mit Go](https://speakerdeck.com/lreimer/von-rest-zu-grpc-und-zuruck-mit-go)<br>betterCode(Go), November 2021
 - [Ich brauche einen Abstraktions-Layer für meine Cloud](https://speakerdeck.com/lreimer/cloud-native-battle-number-1)<br>Cloud Native Battle #1, September 2021
