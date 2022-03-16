@@ -6,7 +6,9 @@ M.-Leander Reimer is a technical business unit director and principal software a
 
 ## Conferences
 
-- OOP
+- [X is better than Y! Or is it? The Battle of Java Microservice Frameworks](https://speakerdeck.com/lreimer/x-is-better-than-y-or-is-it-the-battle-of-java-microservice-frameworks-at-javalandconf)<br>JavaLand 2022, March 2022
+- [REST in Peace. Long live gRPC!](https://speakerdeck.com/lreimer/rest-in-peace-long-live-grpc-at-javalandconf)<br>JavaLand 2022, March 2022
+- [Clean Infrastructure as Code](https://speakerdeck.com/lreimer/clean-infrastructure-as-code-at-oop-2022)<br>OOP 2022, February 2022
 
 ## 2021
 
