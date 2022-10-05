@@ -13,6 +13,7 @@ M.-Leander Reimer is a technical business unit director and principal software a
 ### Conferences
 
 - [Observability: Der Schlüssel für Threat Detection, Mitigation und Analyse](https://speakerdeck.com/lreimer/observability-der-schlussel-fur-threat-detection-mitigation-und-analyse-at-devsec-2022)<br>Heise devSec(), October 2022
+- [K8s-natives Infrastructure as Code: einfach, deklarativ, produktiv](https://speakerdeck.com/lreimer/k8s-natives-infrastructure-as-code-einfach-deklarativ-produktiv-at-mastering-kubernetes-22)<br>Mastering Kubernetes, July 2022
 - [Kubectl apply -f cloud-infrastructure.yaml mit Crossplane](https://speakerdeck.com/lreimer/kubectl-apply-f-cloud-infrastructure-dot-yaml-mit-crossplane)<br>CloudLand Conference, July 2022
 - [JakartaOne German - CN4J Panel]()<br>CloudLand Conference, June 2022
 - [Cluster-as-code: The Many Ways towards Kubernetes](https://speakerdeck.com/lreimer/cluster-as-code-the-many-ways-towards-kubernetes-at-cloudland-2022)<br>CloudLand Conference, June 2022
