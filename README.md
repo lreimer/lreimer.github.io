@@ -7,6 +7,8 @@ M.-Leander Reimer is a technical business unit director and principal software a
 ## Conferences
 
 - [Observability: Der Schlüssel für Threat Detection, Mitigation und Analyse](https://speakerdeck.com/lreimer/observability-der-schlussel-fur-threat-detection-mitigation-und-analyse-at-devsec-2022)<br>Heise devSec(), October 2022
+- [REST in Peace. Long live gRPC!](https://speakerdeck.com/lreimer/rest-in-peace-dot-long-live-grpc-jotb22)<br>J on the Beach, April 2022
+- [REST in Peace. Long live gRPC!](https://speakerdeck.com/lreimer/rest-in-peace-long-live-grpc)<br>betterCode() API, April 2022
 - [Crossplane oder: kubectl apply -f cloud-Infrastructure-as-code.yaml](https://speakerdeck.com/lreimer/crossplane-oder-kubectl-apply-f-cloud-infrastructure-as-code-dot-yaml-at-mastering-gitops-2022)<br>Mastering GitOps, April 2022
 - [X is better than Y! Or is it? The Battle of Java Microservice Frameworks](https://speakerdeck.com/lreimer/x-is-better-than-y-or-is-it-the-battle-of-java-microservice-frameworks-at-javalandconf)<br>JavaLand 2022, March 2022
 - [REST in Peace. Long live gRPC!](https://speakerdeck.com/lreimer/rest-in-peace-long-live-grpc-at-javalandconf)<br>JavaLand 2022, March 2022
