@@ -2,6 +2,21 @@
 
 M.-Leander Reimer is a technical business unit director and principal software architect working for QAware GmbH. He is a senior Java developer and architect with several years of experience in designing complex and distributed system architectures. He is continuously looking for innovations and ways to combine and apply state-of-the-art technology and open source software components in real-world projects. He studied computer science at Rosenheim and Staffordshire University and he is teaching cloud computing and software quality assurance as a part time lecturer.
 
+## 2023
+
+### Conferences
+
+- [Blue turns green! Approaches and technologies for sustainable K8s clusters.](https://speakerdeck.com/lreimer/blue-turns-green-approaches-and-technologies-for-sustainable-k8s-clusters-number-kcdmunich)<br>Kubernetes Community Days Munich, July 2023
+- [Aus blau wird grün! Ansätze und Technologien für nachhaltige Kubernetes-Cluster](https://speakerdeck.com/lreimer/aus-blau-wird-grun-ansatze-und-technologien-fur-nachhaltige-kubernetes-cluster)<br>Mastering Kubernetes, July 2023
+- [Tear Down this Wall! Tales From 3 Years Successful DevOps Collaboration.](https://speakerdeck.com/lreimer/tear-down-this-wall-tales-from-3-years-successful-devops-collaboration)<br>CloudLand, June 2023
+- [A Hitchhikers Guide to the Cloud Friendly Migration of Apache Solr](https://speakerdeck.com/lreimer/a-hitchhikers-guide-to-the-cloud-friendly-migration-of-apache-solr)<br>CloudLand, June 2023
+- [K8s-native Daten-Pipelines mit Quarkus und Argo et al.](https://speakerdeck.com/lreimer/k8s-native-daten-pipelines-mit-quarkus-und-argo-et-al)<br>CloudLand, June 2023
+- [Quadratisch. Praktisch. Gut. K8s-native Qualitätssicherung mit Testkube (Workshop)](https://speakerdeck.com/lreimer/quadratisch-praktisch-gut-k8s-native-qualitatssicherung-mit-testkube-at-germantesting)<br>German Testing Day, May 2023
+- [Vom Elfenbeinturm zur Agilen Architektur](https://speakerdeck.com/lreimer/vom-elfenbeinturm-zur-agilen-architektur)<br>Digital Crafts Day, April 2023
+- [Quadratisch. Praktisch. Gut. K8s-native Qualitätssicherung mit Testkube](https://speakerdeck.com/lreimer/quadratisch-praktisch-gut-k8s-native-qualitatssicherung-mit-testkube-at-javaland)<br>JavaLand, March 2023
+- [Quality in a Square. K8s-native Quality Assurance of Microservices with Testkube](https://speakerdeck.com/lreimer/quality-in-a-square-k8s-native-quality-assurance-of-microservices-with-testkube)<br>JFokus, February 2023
+
+
 ## 2022
 
 ### Videos
@@ -12,7 +27,8 @@ M.-Leander Reimer is a technical business unit director and principal software a
 
 ### Conferences
 
-- [kubectl apply -f cloud-Infrastructure.yaml mit Crossplane et al.]()<br>ContainerConf / ContinuousLifecycle, November 2022
+- [kubectl apply -f cloud-Infrastructure.yaml mit Crossplane et al.](https://speakerdeck.com/lreimer/kubectl-apply-f-cloud-infrastructure-dot-yaml-mit-crossplane-et-al-at-cnnmainz)<br>CloudNativeNight Mainz Meetup, December 2022
+- [kubectl apply -f cloud-infrastructure.yaml mit Crossplane et al.](https://speakerdeck.com/lreimer/kubectl-apply-f-cloud-infrastructure-dot-yaml-mit-crossplane-et-al-at-containerconf-22)<br>ContainerConf / ContinuousLifecycle, November 2022
 - [Cluster-as-code. The Many Ways towards Kubernetes.]()<br>iSAQB Software Architecture Gathering, November 2022
 - [Quadratisch. Praktisch. Gut. K8s-native Quality Assurance mit Testkube](https://speakerdeck.com/lreimer/quadratisch-praktisch-gut-k8s-native-qualitatssicherung-mit-testkube-saa22)<br>Software Architecture Alliance, October 2022
 - [Time to Shift Left: Unkomplizierte Security-Tools und -Technologien für den Entwickleralltag](https://speakerdeck.com/lreimer/time-to-shift-left-unkomplizierte-security-tools-und-technologien-fur-den-entwickleralltag)<br>Heise Developer Experience, October 2022
