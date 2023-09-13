@@ -5,7 +5,8 @@ M.-Leander Reimer is a technical business unit director and principal software a
 ## 2023
 
 ### Conferences
-
+- [Kontinuierliche Sicherheitstests für APIs mit Testkube und OWASP ZAP](https://speakerdeck.com/lreimer/kontinuierliche-sicherheitstests-fur-apis-mit-testkube-und-owasp-zap-number-devsec23)<br>Heise devSec(), September 2023
+- [50 Shades of K8s Autoscaling](https://speakerdeck.com/lreimer/50-shades-of-k8s-autoscaling-number-cds23)<br>ContainerDays #CDS23, September 2023
 - [Blue turns green! Approaches and technologies for sustainable K8s clusters.](https://speakerdeck.com/lreimer/blue-turns-green-approaches-and-technologies-for-sustainable-k8s-clusters-number-kcdmunich)<br>Kubernetes Community Days Munich, July 2023
 - [Aus blau wird grün! Ansätze und Technologien für nachhaltige Kubernetes-Cluster](https://speakerdeck.com/lreimer/aus-blau-wird-grun-ansatze-und-technologien-fur-nachhaltige-kubernetes-cluster)<br>Mastering Kubernetes, July 2023
 - [Tear Down this Wall! Tales From 3 Years Successful DevOps Collaboration.](https://speakerdeck.com/lreimer/tear-down-this-wall-tales-from-3-years-successful-devops-collaboration)<br>CloudLand, June 2023
