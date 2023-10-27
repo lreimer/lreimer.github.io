@@ -5,6 +5,9 @@ M.-Leander Reimer is a technical business unit director and principal software a
 ## 2023
 
 ### Conferences
+
+- [Vom Elfenbeinturm zur Agilen Architektur](https://speakerdeck.com/lreimer/vom-elfenbeinturm-zur-agilen-architektur-number-baselone23)<br>BaselOne, October 2023
+- [Aus blau wird grün! Ansätze und Technologien für nachhaltige Kubernetes-Cluster](https://speakerdeck.com/lreimer/aus-blau-wird-grun-ansatze-und-technologien-fur-nachhaltige-kubernetes-cluster-number-saa23)<br>Software Architecture Alliance, September 2023
 - [Kontinuierliche Sicherheitstests für APIs mit Testkube und OWASP ZAP](https://speakerdeck.com/lreimer/kontinuierliche-sicherheitstests-fur-apis-mit-testkube-und-owasp-zap-number-devsec23)<br>Heise devSec(), September 2023
 - [50 Shades of K8s Autoscaling](https://speakerdeck.com/lreimer/50-shades-of-k8s-autoscaling-number-cds23)<br>ContainerDays #CDS23, September 2023
 - [Blue turns green! Approaches and technologies for sustainable K8s clusters.](https://speakerdeck.com/lreimer/blue-turns-green-approaches-and-technologies-for-sustainable-k8s-clusters-number-kcdmunich)<br>Kubernetes Community Days Munich, July 2023
