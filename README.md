@@ -2,6 +2,14 @@
 
 M.-Leander Reimer is a technical business unit director and principal software architect working for QAware GmbH. He is a senior Java developer and architect with several years of experience in designing complex and distributed system architectures. He is continuously looking for innovations and ways to combine and apply state-of-the-art technology and open source software components in real-world projects. He studied computer science at Rosenheim and Staffordshire University and he is teaching cloud computing and software quality assurance as a part time lecturer.
 
+## 2024
+
+### Conferences
+
+- [Down the Ivory Tower towards Agile Architecture](https://speakerdeck.com/lreimer/down-the-ivory-tower-towards-agile-architecture-number-devoxxuk24)<br>Devoxx UK, May 2024 
+- []()<br>
+- []()<br>
+
 ## 2023
 
 ### Conferences
