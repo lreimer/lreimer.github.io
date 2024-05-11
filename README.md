@@ -7,8 +7,10 @@ M.-Leander Reimer is a technical business unit director and principal software a
 ### Conferences
 
 - [Down the Ivory Tower towards Agile Architecture](https://speakerdeck.com/lreimer/down-the-ivory-tower-towards-agile-architecture-number-devoxxuk24)<br>Devoxx UK, May 2024 
-- []()<br>
-- []()<br>
+- [50 Shades of Kubernetes Autoscaling](https://speakerdeck.com/lreimer/50-shades-of-kubernetes-autoscaling-number-javaland24)<br>JavaLand, April 2024
+- [Sustainability. Das Qualitätsmerkmal grüner Systeme, nachhaltiger Software-Architekturen und deren Entwicklung](https://speakerdeck.com/lreimer/sustainability-das-qualitatsmerkmal-gruner-systeme-nachhaltiger-software-architekturen-und-deren-entwicklung)<br>betterCode() Clean Architecture, March 2024
+- [Aus blau wird grün! Ansätze und Technologien für nachhaltige Kubernetes-Cluster](https://speakerdeck.com/lreimer/aus-blau-wird-grun-ansatze-und-technologien-fur-nachhaltige-kubernetes-cluster-d20e2881-6b45-48a5-b20d-c45f278e9500)<br>OOP, February 2024
+- [kubectl apply -f cloud-Infrastructure.yaml with Crossplane et al.](https://speakerdeck.com/lreimer/kubectl-apply-f-cloud-infrastructure-dot-yaml-with-crossplane-et-al)<br>Platform Engineers Meetup, January 2024
 
 ## 2023
 
