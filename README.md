@@ -1,16 +1,39 @@
 ## #whoami
 
-M.-Leander Reimer is a technical business unit director and principal software architect working for QAware GmbH. He is a senior Java developer and architect with several years of experience in designing complex and distributed system architectures. He is continuously looking for innovations and ways to combine and apply state-of-the-art technology and open source software components in real-world projects. He studied computer science at Rosenheim and Staffordshire University and he is teaching cloud computing and software quality assurance as a part time lecturer.
+M.-Leander Reimer is managing director and CTO at QAware GmbH. He is a senior software developer and architect with several years of experience in designing complex and distributed system architectures. He is continuously looking for innovations and ways to combine and apply state-of-the-art technology and open source software components in real-world projects. He studied computer science at Rosenheim and Staffordshire University and he is teaching software quality assurance as a part time lecturer.
+
+## 2025
+
+- []()<br>JFokus, February 2025, 
 
 ## 2024
 
+### Videos
+
+- [Down the Ivory Tower towards Agile Architecture @ Devoxx UK](https://www.youtube.com/watch?v=yuDEV9xDElA)
+- [kubectl apply -f cloud-Infrastructure.yaml with Crossplane et al.](https://www.youtube.com/watch?v=EndaWFD0ChY)
+
 ### Conferences
 
+- [Java-basierte KI auf Kubernetes: Von der Entwicklung bis zum Deployment mit Leichtigkeit](https://speakerdeck.com/lreimer/java-basierte-ki-auf-kubernetes-von-der-entwicklung-bis-zum-deployment-mit-leichtigkeit)<br>[SEACON](https://www.sea-con.de/de/programm/konferenzprogramm), December 2024
+- [Von Multi-Cluster bis Hybrid-Cloud: Flexibles Kubernetes-Scheduling mit Karmada](https://speakerdeck.com/lreimer/von-multi-cluster-bis-hybrid-cloud-flexibles-kubernetes-scheduling-mit-karmada-number-concon24)<br>[Continuous Lifecycle](https://www.continuouslifecycle.de/veranstaltung-22525-0-von-multi-cluster-bis-hybrid-cloud-flexibles-kubernetes-scheduling-mit-karmada.html), November 2024
+- [Boosting AI Innovation: Wie AI-Plattformen helfen, eure Use Cases auf die Straße zu bringen](https://speakerdeck.com/lreimer/boosting-ai-innovation-wie-ai-plattformen-helfen-eure-use-cases-auf-die-strasse-zu-bringen-number-concon24)<br>[Continuous Lifecycle](https://www.continuouslifecycle.de/veranstaltung-22528-0-boosting-ai-innovation-wie-ai-plattformen-helfen-eure-use-cases-auf-die-strasse-zu-bringen.html), November 2024
+- [Turbocharging AI Innovation: How AI Platforms Enable The Bulletproof Deployment of GenAI Use Cases](https://speakerdeck.com/lreimer/turbocharging-ai-innovation-how-ai-platforms-enable-the-bulletproof-deployment-of-genai-use-cases-number-sag2024)<br>[Software Architecture Gathering](https://conferences.isaqb.org/software-architecture-gathering/session/turbocharging-ai-innovation-how-ai-platforms-enable-the-bulletproof-deployment-of-genai-use-cases/), November 2024
+- [Turbocharging AI Innovation: Wie AI-Plattformen helfen, GenAI Use Cases zuverlässig auf die Straße zu bringen](https://www.coworkingspace.tirol/de/ki-weisswurst-fruehstueck.html)<br>[KI Weißwurst Frühstück](https://www.coworkingspace.tirol/de/ki-weisswurst-fruehstueck.html), Oktober 2024
+- [Microservice-Kommunikation entmystifiziert: Von REST zu gRPC und darüber hinaus](https://speakerdeck.com/lreimer/microservice-kommunikation-entmystifiziert-von-rest-zu-grpc-und-daruber-hinaus)<br>[Mastering Microservices](https://konferenzen.heise.de/mastering-microservices/#diekonferenz), Oktober 2024
+- [Boost Your API Development Speed the Cloud-native Way](https://speakerdeck.com/lreimer/boost-your-api-development-speed-the-cloud-native-way)<br>[InfoDay Modernes API-Design](https://www.infodays.de/api-design/programm/konferenzprogramm), September 2024
+- [Turbocharging AI Innovation: How AI Platforms Enable The Bulletproof Deployment of GenAI Use Cases](https://www.meetup.com/de-DE/cloud-native-muc/events/302035467/?eventorigin=group_past_events)<br>[Cloud Native Night Munich](https://www.meetup.com/de-DE/cloud-native-muc/events/302035467/?eventorigin=group_past_events), July 2024
+- [Effizientes Kubernetes Flotten-Management mit Cluster API und GitOps](https://speakerdeck.com/lreimer/effizientes-kubernetes-flotten-management-mit-cluster-api-und-gitops-at-cloudland)<br>[CloudLand](https://meine.doag.org/events/cloudland/2024/agenda/#agendaId.4196), June 2024
+- [Turbocharging AI Innovation: Wie AI-Plattformen helfen GenAI Use Cases zuverlässig auf die Straße zu bringen](https://speakerdeck.com/lreimer/turbocharging-ai-innovation-wie-ai-plattformen-helfen-genai-use-cases-zuverlassig-auf-die-strasse-zu-bringen-at-cloudland)<br>[CloudLand](https://meine.doag.org/events/cloudland/2024/agenda/#agendaId.4239), June 2024
+- [Navigating the Cloud-native Sustainability Landscape towards Green K8s Clusters](https://speakerdeck.com/lreimer/navigating-the-cloud-native-sustainability-landscape-towards-green-k8s-clusters-at-cloudland)<br>[CloudLand](https://meine.doag.org/events/cloudland/2024/agenda/#agendaId.4163), June 2024
+- [Turbocharging AI Innovation: How AI Platforms Enable The Bulletproof Deployment of GenAI Use Cases.](https://atpi.eventsair.com/esaw-2024/programme)<br>[9th European Mission Operations Data System Architecture Workshop (ESAW)](https://atpi.eventsair.com/esaw-2024/programme), June 2024
+- [Ganzheitliche Observability: Von der Infrastruktur bis zur Anwendungs-Instrumentierung](https://www.mastering-obs.de/2024/veranstaltung-22012-se-0-ganzheitliche-observability-von-der-infrastruktur-bis-zur-anwendungs-instrumentierung.html)<br>[Mastering Observability](https://www.mastering-obs.de/2024/veranstaltung-22012-se-0-ganzheitliche-observability-von-der-infrastruktur-bis-zur-anwendungs-instrumentierung.html), June 2024
 - [Down the Ivory Tower towards Agile Architecture](https://speakerdeck.com/lreimer/down-the-ivory-tower-towards-agile-architecture-number-devoxxuk24)<br>Devoxx UK, May 2024 
+- [Turbocharging AI Innovation: Wie AI Plattformen helfen, GenAI Use Cases zuverlässig auf die Straße zu bringen](https://www.stellwerk18.de/ki-und-weisswurst-im-stellwerk18/)<br>[KI Weißwurstfrühstück](https://www.stellwerk18.de/ki-und-weisswurst-im-stellwerk18/), April 2024
 - [50 Shades of Kubernetes Autoscaling](https://speakerdeck.com/lreimer/50-shades-of-kubernetes-autoscaling-number-javaland24)<br>JavaLand, April 2024
 - [Sustainability. Das Qualitätsmerkmal grüner Systeme, nachhaltiger Software-Architekturen und deren Entwicklung](https://speakerdeck.com/lreimer/sustainability-das-qualitatsmerkmal-gruner-systeme-nachhaltiger-software-architekturen-und-deren-entwicklung)<br>betterCode() Clean Architecture, March 2024
 - [Aus blau wird grün! Ansätze und Technologien für nachhaltige Kubernetes-Cluster](https://speakerdeck.com/lreimer/aus-blau-wird-grun-ansatze-und-technologien-fur-nachhaltige-kubernetes-cluster-d20e2881-6b45-48a5-b20d-c45f278e9500)<br>OOP, February 2024
-- [kubectl apply -f cloud-Infrastructure.yaml with Crossplane et al.](https://speakerdeck.com/lreimer/kubectl-apply-f-cloud-infrastructure-dot-yaml-with-crossplane-et-al)<br>Platform Engineers Meetup, January 2024
+- [kubectl apply -f cloud-Infrastructure.yaml with Crossplane et al.](https://speakerdeck.com/lreimer/kubectl-apply-f-cloud-infrastructure-dot-yaml-with-crossplane-et-al)<br>Platform Engineering Meetup, January 2024
 
 ## 2023
 
