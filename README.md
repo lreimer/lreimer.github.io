@@ -4,7 +4,7 @@ M.-Leander Reimer is managing director and CTO at QAware GmbH. He is a senior so
 
 ## 2025
 
-- []()<br>JFokus, February 2025, 
+- [Mapping ISO27001 to Modern Software Engineering: Secure by Design](https://speakerdeck.com/lreimer/mapping-iso-27001-to-modern-software-engineering-secure-by-design-at-jfokus-2025)<br>JFokus, February 2025
 
 ## 2024
 
