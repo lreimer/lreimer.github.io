@@ -4,6 +4,7 @@ M.-Leander Reimer is managing director and CTO at QAware GmbH. He is a senior so
 
 ## 2025
 
+- [Architecting and Building a K8s-based AI Platform](https://speakerdeck.com/lreimer/architecting-and-building-a-k8s-based-ai-platform-e21475e2-0913-49ec-a467-81c32b625fd7)<br>All in Kubernetes Meetup, March 2025
 - [Mapping ISO27001 to Modern Software Engineering: Secure by Design](https://speakerdeck.com/lreimer/mapping-iso-27001-to-modern-software-engineering-secure-by-design-at-jfokus-2025)<br>JFokus, February 2025
 
 ## 2024
