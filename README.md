@@ -8,20 +8,25 @@ M.-Leander Reimer is managing director and CTO at QAware GmbH. He is a senior so
 
 - [Engineering Trust: Integrating Security into Your Modern SDLC](https://www.youtube.com/watch?v=8e0_n-XybII)
 - [Architecting and Building a K8s-based AI Platform](https://www.youtube.com/watch?v=pg2DKYc9n_o)
+- [A Chat with M.-Leander Reimer und Adam Bien at #CloudLand 2025](https://www.youtube.com/shorts/LnU5-QaRasA)
 - [Von Multi-Cluster bis Hybrid-Cloud: Flexibles Kubernetes-Scheduling mit Karmada](https://media.ccc.de/v/glt25-515-von-multi-cluster-bis-hybrid-cloud-flexibles-kubernetes-scheduling-mit-karmada)
 - [Beyond Microservices: Running VMs, WASM, and AI Workloads on Kubernetes](https://ftp.agdsn.de/ccc//events/glt25/h264-hd/glt25-513-eng-Beyond_Microservices_Running_VMs_WASM_and_AI_Workloads_on_Kubernetes_hd.mp4)
 - [Mapping ISO 27001 to Modern Software Engineering: Secure by Design](https://www.youtube.com/watch?v=w3CWf3x_AG4)
 
 ### Conferences
 
-- [Engineering Trust: Integrating Security into Your Modern SDLC]()<br>[Øredev Conference](), 
+- Continuous Lifecycle, November 2025
+- KI Navigator, November 2025
+- [Engineering Trust: Integrating Security into Your Modern SDLC]()<br>[Øredev Conference](), November 2025
+- InfoDays: Software Architecture, Oktober 2025
+- TestCon Europe, Oktober 2025
+- JavaCro'25, October 2025
 - apidays London, September 2025
 - Java Forum Nord, September 2025
 - Java Forum Süd, July 2025
 - Kubernetes Community Days, July 2025
 - CloudLand, July 2025
-- Cyber Weißwurstfrühstück, May 2025
-- betterCode API(), May 2025
+- [Kontinuierliches API Mocking und Testing mit Microcks und Testkube](https://speakerdeck.com/lreimer/kontinuierliches-api-mocking-und-testing-mit-microcks-und-testkube-number-bettercode-api),<br>[betterCode API()](https://api.bettercode.eu/2025/veranstaltung-83444-se-0-kontinuierliches-api-mocking-und-testing-mit-microcks-und-testkube.html), May 2025
 - [Beyond Microservices: Running VMs, WASM, and AI Workloads on Kubernetes](https://speakerdeck.com/lreimer/beyond-microservices-running-vms-wasm-and-ai-workloads-on-kubernetes)<br>[Grazer Linuxtage](https://pretalx.linuxtage.at/glt25/talk/FVPWLT/), April 2025
 - [Von Multi-Cluster bis Hybrid-Cloud: Flexibles Kubernetes-Scheduling mit Karmada](https://speakerdeck.com/lreimer/von-multi-cluster-bis-hybrid-cloud-flexibles-kubernetes-scheduling-mit-karmada-glt25-1)<br>[Grazer Linuxtage](https://pretalx.linuxtage.at/glt25/talk/9HD8BG/), April 2025
 - [ISO 27001 und moderne Softwareentwicklung: wie passt das zusammen?](https://speakerdeck.com/lreimer/iso-27001-und-moderne-softwareentwicklung-wie-passt-das-zusammen)<br>[Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2025), April 2025
