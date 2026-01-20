@@ -4,6 +4,23 @@ M.-Leander Reimer is managing director and CTO at QAware GmbH. He is a senior so
 
 ## 2025
 
+### Videos
+
+- [Von Multi-Cluster bis Hybrid-Cloud: Flexibles Kubernetes-Scheduling mit Karmada](https://media.ccc.de/v/glt25-515-von-multi-cluster-bis-hybrid-cloud-flexibles-kubernetes-scheduling-mit-karmada)
+- [Beyond Microservices: Running VMs, WASM, and AI Workloads on Kubernetes](https://ftp.agdsn.de/ccc//events/glt25/h264-hd/glt25-513-eng-Beyond_Microservices_Running_VMs_WASM_and_AI_Workloads_on_Kubernetes_hd.mp4)
+
+### Conferences
+
+- apidays London, September 2025
+- Java Forum Nord, September 2025
+- Java Forum Süd, July 2025
+- Kubernetes Community Days, July 2025
+- CloudLand, July 2025
+- Cyber Weißwurstfrühstück, May 2025
+- betterCode API(), May 2025
+- [Beyond Microservices: Running VMs, WASM, and AI Workloads on Kubernetes](https://speakerdeck.com/lreimer/beyond-microservices-running-vms-wasm-and-ai-workloads-on-kubernetes)<br>[Grazer Linuxtage](https://pretalx.linuxtage.at/glt25/talk/FVPWLT/), April 2025
+- [Von Multi-Cluster bis Hybrid-Cloud: Flexibles Kubernetes-Scheduling mit Karmada](https://speakerdeck.com/lreimer/von-multi-cluster-bis-hybrid-cloud-flexibles-kubernetes-scheduling-mit-karmada-glt25-1)<br>[Grazer Linuxtage](https://pretalx.linuxtage.at/glt25/talk/9HD8BG/), April 2025
+- [ISO 27001 und moderne Softwareentwicklung: wie passt das zusammen?](https://speakerdeck.com/lreimer/iso-27001-und-moderne-softwareentwicklung-wie-passt-das-zusammen)<br>[Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2025), April 2025
 - [Architecting and Building a K8s-based AI Platform](https://speakerdeck.com/lreimer/architecting-and-building-a-k8s-based-ai-platform-e21475e2-0913-49ec-a467-81c32b625fd7)<br>All in Kubernetes Meetup, March 2025
 - [Mapping ISO27001 to Modern Software Engineering: Secure by Design](https://speakerdeck.com/lreimer/mapping-iso-27001-to-modern-software-engineering-secure-by-design-at-jfokus-2025)<br>JFokus, February 2025
 
