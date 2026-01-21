@@ -25,7 +25,8 @@ M.-Leander Reimer is managing director and CTO at QAware GmbH. He is a senior so
 - []()<br>InfoDays: Software Architecture, Oktober 2025
 - []()<br>TestCon Europe, Oktober 2025
 - []()<br>JavaCro'25, October 2025
-- []()<br>apidays London, September 2025
+- []()<br>JavaCro'25, October 2025
+- [Continuous API Mocking and Testing with Microcks and Testkube](https://speakerdeck.com/lreimer/continuous-api-mocking-and-testing-with-microcks-and-testkube)<br>[apidays London](https://www.apidays.global/archive/2025/london#agenda), September 2025
 - [Mapping ISO 27001 to Modern Software Engineering: Secure by Design](https://speakerdeck.com/lreimer/mapping-iso-27001-to-modern-software-engineering-secure-by-design-number-jfn25)<br>[Java Forum Nord](https://javaforumnord.de/2025/programm/), September 2025
 - [ISO 27001 und moderne Softwareentwicklung: wie passt das zusammen?](https://speakerdeck.com/lreimer/iso-27001-und-moderne-softwareentwicklung-wie-passt-das-zusammen-number-jfs25)<br>[Java Forum Stuttgart](https://www.java-forum-stuttgart.de/vortraege/iso-27001-und-moderne-softwareentwicklung-wie-passt-das-zusammen/), July 2025
 - [Architecting and Building a K8s-based AI Platform](https://speakerdeck.com/lreimer/architecting-and-building-a-k8s-based-ai-platform-number-cns25),<br>[Cloud Native Summit Munich](https://www.kcdmunich.de/schedule?event=870316), July 2025
