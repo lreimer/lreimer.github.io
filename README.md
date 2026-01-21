@@ -2,6 +2,10 @@
 
 M.-Leander Reimer is managing director and CTO at QAware GmbH. He is a senior software developer and architect with several years of experience in designing complex and distributed system architectures. He is continuously looking for innovations and ways to combine and apply state-of-the-art technology and open source software components in real-world projects. He studied computer science at Rosenheim and Staffordshire University and he is teaching software quality assurance as a part time lecturer.
 
+## 2026
+
+### Conferences
+
 ## 2025
 
 ### Videos
@@ -15,17 +19,17 @@ M.-Leander Reimer is managing director and CTO at QAware GmbH. He is a senior so
 
 ### Conferences
 
-- Continuous Lifecycle, November 2025
-- KI Navigator, November 2025
+- []()<br>Continuous Lifecycle, November 2025
+- []()<br>KI Navigator, November 2025
 - [Engineering Trust: Integrating Security into Your Modern SDLC]()<br>[Øredev Conference](), November 2025
-- InfoDays: Software Architecture, Oktober 2025
-- TestCon Europe, Oktober 2025
-- JavaCro'25, October 2025
-- apidays London, September 2025
-- Java Forum Nord, September 2025
-- Java Forum Süd, July 2025
-- Kubernetes Community Days, July 2025
-- CloudLand, July 2025
+- []()<br>InfoDays: Software Architecture, Oktober 2025
+- []()<br>TestCon Europe, Oktober 2025
+- []()<br>JavaCro'25, October 2025
+- []()<br>apidays London, September 2025
+- [Mapping ISO 27001 to Modern Software Engineering: Secure by Design](https://speakerdeck.com/lreimer/mapping-iso-27001-to-modern-software-engineering-secure-by-design-number-jfn25)<br>[Java Forum Nord](https://javaforumnord.de/2025/programm/), September 2025
+- [ISO 27001 und moderne Softwareentwicklung: wie passt das zusammen?](https://speakerdeck.com/lreimer/iso-27001-und-moderne-softwareentwicklung-wie-passt-das-zusammen-number-jfs25)<br>[Java Forum Stuttgart](https://www.java-forum-stuttgart.de/vortraege/iso-27001-und-moderne-softwareentwicklung-wie-passt-das-zusammen/), July 2025
+- [Architecting and Building a K8s-based AI Platform](https://speakerdeck.com/lreimer/architecting-and-building-a-k8s-based-ai-platform-number-cns25),<br>[Cloud Native Summit Munich](https://www.kcdmunich.de/schedule?event=870316), July 2025
+- [Beyond Microservices: Running VMs, WASM, and AI Workloads on Kubernetes](https://speakerdeck.com/lreimer/beyond-microservices-running-vms-wasm-and-ai-workloads-on-kubernetes)<br>[CloudLand](https://meine.doag.org/events/cloudland/2025/agenda/#agendaId.5719), July 2025
 - [Kontinuierliches API Mocking und Testing mit Microcks und Testkube](https://speakerdeck.com/lreimer/kontinuierliches-api-mocking-und-testing-mit-microcks-und-testkube-number-bettercode-api),<br>[betterCode API()](https://api.bettercode.eu/2025/veranstaltung-83444-se-0-kontinuierliches-api-mocking-und-testing-mit-microcks-und-testkube.html), May 2025
 - [Beyond Microservices: Running VMs, WASM, and AI Workloads on Kubernetes](https://speakerdeck.com/lreimer/beyond-microservices-running-vms-wasm-and-ai-workloads-on-kubernetes)<br>[Grazer Linuxtage](https://pretalx.linuxtage.at/glt25/talk/FVPWLT/), April 2025
 - [Von Multi-Cluster bis Hybrid-Cloud: Flexibles Kubernetes-Scheduling mit Karmada](https://speakerdeck.com/lreimer/von-multi-cluster-bis-hybrid-cloud-flexibles-kubernetes-scheduling-mit-karmada-glt25-1)<br>[Grazer Linuxtage](https://pretalx.linuxtage.at/glt25/talk/9HD8BG/), April 2025
