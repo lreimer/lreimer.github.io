@@ -19,7 +19,7 @@ M.-Leander Reimer is managing director and CTO at QAware GmbH. He is a senior so
 
 ### Conferences
 
-- []()<br>Continuous Lifecycle, November 2025
+- [Von der Idee zur Wirkung: Architektur und Aufbau einer Cloud-nativen AI-Plattform](https://speakerdeck.com/lreimer/von-der-idee-zur-wirkung-architektur-und-aufbau-einer-cloud-nativen-ai-plattform-number-clc25)<br>[Continuous Lifecycle](https://clc-conference.eu/veranstaltung-83904-0-von-der-idee-zur-wirkung-architektur-und-aufbau-einer-cloud-nativen-ai-plattform.html), November 2025
 - [Architecting and Building a K8s-based AI Platform](https://speakerdeck.com/lreimer/architecting-and-building-a-k8s-based-ai-platform-number-cnn)<br>[KI Navigator](https://meine.doag.org/events/ki/2025/agenda/#agendaId.6226), November 2025
 - [Engineering Trust: Integrating Security into Your Modern SDLC](https://speakerdeck.com/lreimer/engineering-trust-integrating-security-into-your-modern-sdlc)<br>[Øredev Developers Conference](https://archive.oredev.org/2025/#/line-up), November 2025
 - [Von der Idee zur Wirkung: Architektur und Aufbau einer Agentic AI-Plattform](https://speakerdeck.com/lreimer/von-der-idee-zur-wirkung-architektur-und-aufbau-einer-agentic-ai-plattform-number-infodayssa)<br>[InfoDays: Software Architektur](https://www.infodays.de/sa/programm/konferenzprogramm/details/mi-23-1), Oktober 2025
