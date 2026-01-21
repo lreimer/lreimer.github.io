@@ -21,7 +21,7 @@ M.-Leander Reimer is managing director and CTO at QAware GmbH. He is a senior so
 
 - []()<br>Continuous Lifecycle, November 2025
 - []()<br>KI Navigator, November 2025
-- [Engineering Trust: Integrating Security into Your Modern SDLC]()<br>[Øredev Conference](), November 2025
+- [Engineering Trust: Integrating Security into Your Modern SDLC](https://speakerdeck.com/lreimer/engineering-trust-integrating-security-into-your-modern-sdlc)<br>[Øredev Developers Conference](https://archive.oredev.org/2025/#/line-up?tags=Security), November 2025
 - []()<br>InfoDays: Software Architecture, Oktober 2025
 - [Continuous API Mocking and Testing with Microcks, Keptn, and Testkube](https://speakerdeck.com/lreimer/continuous-api-mocking-and-testing-with-microcks-and-testkube-number-testconeu25)<br>[TestCon Europe](https://events.pinetool.ai/3498/#speakers/1010460?referrer%5Bpathname%5D=%2Fspeakers&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Speakers), Oktober 2025
 - Opening Roundtable: Software Development in the Age of AI<br>[JavaCro'25](https://2025.javacro.hr/eng/Speakers), October 2025
