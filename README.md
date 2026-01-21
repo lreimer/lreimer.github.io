@@ -24,8 +24,9 @@ M.-Leander Reimer is managing director and CTO at QAware GmbH. He is a senior so
 - [Engineering Trust: Integrating Security into Your Modern SDLC]()<br>[Øredev Conference](), November 2025
 - []()<br>InfoDays: Software Architecture, Oktober 2025
 - []()<br>TestCon Europe, Oktober 2025
-- []()<br>JavaCro'25, October 2025
-- []()<br>JavaCro'25, October 2025
+- Opening Roundtable: Software Development in the Age of AI<br>[JavaCro'25](https://2025.javacro.hr/eng/Speakers), October 2025
+- [Mapping ISO 27001 to Modern Software Engineering: Secure by Design](https://speakerdeck.com/lreimer/mapping-iso-27001-to-modern-software-engineering-secure-by-design-number-javacro25)<br>[JavaCro'25](https://2025.javacro.hr/eng/Speakers), October 2025
+- [Java-Powered AI on Kubernetes: From Development to Deployment with Ease](https://speakerdeck.com/lreimer/java-powered-ai-on-kubernetes-from-development-to-deployment-with-ease-number-javacro25)<br>[JavaCro'25](https://2025.javacro.hr/eng/Speakers), October 2025
 - [Continuous API Mocking and Testing with Microcks and Testkube](https://speakerdeck.com/lreimer/continuous-api-mocking-and-testing-with-microcks-and-testkube)<br>[apidays London](https://www.apidays.global/archive/2025/london#agenda), September 2025
 - [Mapping ISO 27001 to Modern Software Engineering: Secure by Design](https://speakerdeck.com/lreimer/mapping-iso-27001-to-modern-software-engineering-secure-by-design-number-jfn25)<br>[Java Forum Nord](https://javaforumnord.de/2025/programm/), September 2025
 - [ISO 27001 und moderne Softwareentwicklung: wie passt das zusammen?](https://speakerdeck.com/lreimer/iso-27001-und-moderne-softwareentwicklung-wie-passt-das-zusammen-number-jfs25)<br>[Java Forum Stuttgart](https://www.java-forum-stuttgart.de/vortraege/iso-27001-und-moderne-softwareentwicklung-wie-passt-das-zusammen/), July 2025
